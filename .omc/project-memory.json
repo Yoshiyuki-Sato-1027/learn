@@ -29,6 +29,31 @@
   },
   "customNotes": [],
   "directoryMap": {},
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "summaries/index.md",
+      "accessCount": 5,
+      "lastAccessed": 1775795814865,
+      "type": "file"
+    },
+    {
+      "path": ".claude/commands/summarize.md",
+      "accessCount": 1,
+      "lastAccessed": 1775795443469,
+      "type": "file"
+    },
+    {
+      "path": "summaries/2026-04-10-ai-jiso-design.md",
+      "accessCount": 1,
+      "lastAccessed": 1775795569404,
+      "type": "file"
+    },
+    {
+      "path": "summaries/2026-04-10-layerx-fukushima-ai-native-organization.md",
+      "accessCount": 1,
+      "lastAccessed": 1775795804087,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }

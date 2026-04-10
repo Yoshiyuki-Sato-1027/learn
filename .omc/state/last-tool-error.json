@@ -1,0 +1,7 @@
+{
+  "tool_name": "WebFetch",
+  "tool_input_preview": "{\"url\":\"https://thebridge.jp/2026/04/layerx-fukushima-ai-native-organization-muip\",\"prompt\":\"このページのタイトル、概要、主要ポイント、キーワードを日本語で詳しく教えてください。記事の内容をできるだけ詳細に抽出してください。\"}",
+  "error": "Request failed with status code 403",
+  "timestamp": "2026-04-10T04:35:57.676Z",
+  "retry_count": 1
+}
