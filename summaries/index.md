@@ -4,6 +4,11 @@
 
 | 日付 | タイトル | URL | ファイル |
 |------|----------|-----|----------|
+| 2026-04-11 | AIを使い倒して気づいた、人間の役割の変化 — コパイロットからメインパイロットになるのか？ | [リンク](https://tech.uzabase.com/entry/2026/03/23/090449) | [要約](2026-04-11-ai-human-role-change-uzabase.md) |
+| 2026-04-11 | Coding Agent時代のソフトウェア：「全部作れる」の先にあるPlatformとHeadless SaaS | [リンク](https://note.com/y_matsuwitter/n/n8d6160d9ba07) | [要約](2026-04-11-coding-agent-platform-headless-saas.md) |
+| 2026-04-11 | Amazon S3 Files の料金体系を図解で整理してみた | [リンク](https://dev.classmethod.jp/articles/amazon-s3-files-pricing-visual-guide/) | [要約](2026-04-11-amazon-s3-files-pricing-visual-guide.md) |
+| 2026-04-11 | インターネット副回線のトラフィックをDCに集約してコスト削減した話 | [リンク](https://engineering.dena.com/blog/2026/04/office-backup-line-dc-aggregation/) | [要約](2026-04-11-dena-office-backup-line-dc-aggregation.md) |
+| 2026-04-11 | WINTICKETにおけるインシデント避難訓練の仕組みと1年間の運用知見 | [リンク](https://developers.cyberagent.co.jp/blog/archives/62846/) | [要約](2026-04-11-wintticket-incident-drill.md) |
 | 2026-04-10 | Claude Codeの /autofix-pr コマンドを利用して、プルリクエストのレビューコメントを自動で修正する | [リンク](https://dev.classmethod.jp/articles/claude-code-autofix-pr-automation-fix/) | [要約](2026-04-10-claude-code-autofix-pr.md) |
 | 2026-04-10 | クエリ集計ミス激減！脱「バイブコーディング」と仕様駆動分析（SDA）のすゝめ | [リンク](https://engineering.dena.com/blog/2026/04/spec-driven-analytics/) | [要約](2026-04-10-spec-driven-analytics.md) |
 | 2026-04-10 | サイボウズにフロントエンドエンジニアとして新卒入社して1年が経ちました | [リンク](https://blog.cybozu.io/entry/2026/04/01/113000) | [要約](2026-04-10-cybozu-frontend-engineer-one-year.md) |
