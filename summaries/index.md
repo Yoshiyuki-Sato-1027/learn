@@ -4,6 +4,7 @@
 
 | 日付 | タイトル | URL | ファイル |
 |------|----------|-----|----------|
+| 2026-04-12 | Claude Codeを実務開発で使い倒して得られた知見 | [リンク](https://tonkotsuboy.github.io/20250731-forkwell-claude-code/#10) | [要約](2026/04/12/claude-code-jitsumu-chishiki.md) |
 | 2026-04-11 | Claude Code 組織設定配布戦略 – メルカリのセキュリティ対応事例 | [リンク](https://speakerdeck.com/hi120ki/claude-code-organization-settings) | [要約](2026/04/11/claude-code-organization-settings.md) |
 | 2026-04-11 | S3 Files の提供開始 – S3 バケットがファイルシステムとしてアクセス可能に | [リンク](https://aws.amazon.com/jp/blogs/news/launching-s3-files-making-s3-buckets-accessible-as-file-systems/) | [要約](2026/04/11/amazon-s3-files-file-system-access.md) |
 | 2026-04-11 | AIを使い倒して気づいた、人間の役割の変化 — コパイロットからメインパイロットになるのか？ | [リンク](https://tech.uzabase.com/entry/2026/03/23/090449) | [要約](2026/04/11/2026-04-11-ai-human-role-change-uzabase.md) |
